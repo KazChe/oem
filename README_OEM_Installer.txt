@@ -1,4 +1,4 @@
-2015-13-05 Christopher Morehouse
+ 2015-13-05 Christopher Morehouse
 
 *********************************PREREQUISITE*****************************************
 *You need to create the pentaho unix user that will be running the BA Server process.*
